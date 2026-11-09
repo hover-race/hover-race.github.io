@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#161b22"/>
+  <!-- Left ear + black tuft -->
+  <polygon points="10,4 6,9 14,13" fill="#0d1117"/>
+  <polygon points="12,11 26,21 14,29" fill="#d98a3c"/>
+  <polygon points="15,15 23,21 16,26" fill="#f3c68f"/>
+  <!-- Right ear + black tuft -->
+  <polygon points="54,4 58,9 50,13" fill="#0d1117"/>
+  <polygon points="52,11 38,21 50,29" fill="#d98a3c"/>
+  <polygon points="49,15 41,21 48,26" fill="#f3c68f"/>
+  <!-- Cheek ruffs -->
+  <polygon points="14,27 6,38 18,48 32,56 46,48 58,38 50,27 38,20 26,20" fill="#e09a4f"/>
+  <polygon points="10,36 6,42 18,48 16,38" fill="#f5deb3"/>
+  <polygon points="54,36 58,42 46,48 48,38" fill="#f5deb3"/>
+  <!-- Forehead & bridge -->
+  <polygon points="26,20 38,20 35,39 29,39" fill="#c7772e"/>
+  <!-- Eyes -->
+  <polygon points="18,31 27,33 25,37 17,35" fill="#ffd84d"/>
+  <polygon points="46,31 37,33 39,37 47,35" fill="#ffd84d"/>
+  <rect x="21.5" y="32" width="2.2" height="4.5" rx="1" fill="#0d1117"/>
+  <rect x="40.3" y="32" width="2.2" height="4.5" rx="1" fill="#0d1117"/>
+  <!-- Muzzle & nose -->
+  <polygon points="24,42 32,39 40,42 38,51 32,54 26,51" fill="#f5deb3"/>
+  <polygon points="29,41 35,41 32,46" fill="#d46a6a"/>
+  <path d="M32,46 L32,50 M32,50 L28,52 M32,50 L36,52" stroke="#0d1117" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+</svg>
